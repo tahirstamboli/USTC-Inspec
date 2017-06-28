@@ -1,0 +1,8 @@
+name: inspec-USTC
+title: InSpec Profile
+maintainer: The Authors
+copyright: The Authors
+copyright_email: nidhi.hegde@reancloud.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
